@@ -1,0 +1,213 @@
+body{
+	/*background: #DAF5EA;*/
+	background: #F0EFE8;
+	font-family: quicksand;
+	padding-top:60px;
+	padding-bottom:60px;
+}
+
+.body_page{
+	background: #F0EFE8;
+}
+
+h1{
+	font-weight: bold;
+}
+
+h3{
+	font-weight: bold;
+}
+
+@media (max-width: 979px) {
+  body {
+    padding-top: 0px;
+  }
+}
+
+h4{
+	font-size: 25px;
+	padding-top: -100px;
+}
+
+hr{
+	color: black;
+}
+
+#project_info1{
+	padding-top: 250px;
+}
+
+.name{
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.links{
+	background-color: black;
+	text-align: center;
+	text-decoration: none;
+	margin-bottom: -50px;
+	color: #A6A6A6;
+    text-decoration: none;
+}
+
+#projects-link{
+	color: #A6A6A6;
+    text-decoration: none;
+    padding-right: 30px;
+}
+
+#resume-link{
+	color: #A6A6A6;
+    text-decoration: none;
+    padding-right: 30px;
+}
+
+#contact-link{
+	color: #A6A6A6;
+    text-decoration: none;
+
+}
+
+#projects-link:hover{
+	color:#31A0BF;
+	text-decoration: none;
+}
+
+#resume-link:hover{
+	color:#31A0BF;
+	text-decoration: none;
+}
+
+#contact-link:hover{
+	color:#31A0BF;
+	text-decoration: none;
+}
+
+/*a:-webkit-any-link {
+    color: #A6A6A6;
+    text-decoration: none;
+    cursor: auto;
+}*/
+
+/*projects-link{
+	padding-right: 20px;
+}*/
+
+.vibart{
+	width: 100%;
+	height: auto;
+}
+
+
+.atcon{
+	width: 100%;
+	height: auto;
+}
+
+#project_info2{
+	padding-top: 125px
+}
+
+/*.womenshealth{
+	width: 100%;
+	height: auto;
+}*/
+
+.social-icon{
+	width: 10%;
+	height: auto;
+}
+
+.social-icon8{
+	width: 5%;
+	height: 5%;
+}
+
+.social-icon3{
+	width: 6%;
+	height: 6%;
+}
+
+#project_info1{
+	text-align: left;
+}
+
+#project_info3{
+	text-align: left;
+}
+
+#project_info2{
+	text-align: right;
+	padding-top: 150px;
+}
+
+#resume-link{
+	/*padding-right: 20px*/
+}
+
+.navbar-fixed-top{
+	color : #F0EFE8;
+	background-color: black;
+	padding-bottom: 50px;
+}
+
+#project_info_title{
+	font-size: 27px;
+	font-weight: bold;
+}
+
+#project_info_github{
+	font-size: 20px;
+}
+
+#p{
+	font-size: 15px;
+}
+
+.contact{
+	/*text-align: center;*/
+	/*margin-top: 50px*/
+
+}
+
+#writemail{
+	color: #4F4F4F;
+}
+
+#github{
+	color: #4F4F4F;
+}
+
+#linkedin{
+	color: #4F4F4F;
+}
+
+#writemail:hover{
+	color:#31A0BF;
+	text-decoration: none;
+}
+
+.container{
+	text-align: center;
+}
+
+#github:hover{
+	color:#31A0BF;
+	text-decoration: none;
+}
+
+#linkedin:hover{
+	color:#31A0BF;
+	text-decoration: none;
+}
+
+a {
+    color: #4F4F4F;
+}
+
+a:focus, a:hover {
+    color: #31A0BF;
+    text-decoration: none;
+}
+
