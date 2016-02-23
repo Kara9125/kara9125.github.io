@@ -33,13 +33,37 @@ hr{
 	color: black;
 }
 
-#self{
-	padding-left: 250px;
-	padding-top: 250px
+#about_me_title{
+	font-size: 27px;
+/*	padding-bottom: 50px;*/
+	text-align: center;
+	font-weight: bold;
+	color: #4F4F4F;
 }
 
+#self{
+/*	height: 75%;
+	width: 75%;*/
+	margin-left: 700px;
+	margin-top: -275px;
+}
+
+.about_me_desc{
+
+	color: #333333;
+	padding-top: 20px;
+	text-align: left;
+
+}
+
+.about_linkedin{
+	width: 10%;
+	height: 10%;
+}
+
+
 #project_info1{
-	padding-top: 250px;
+	padding-top: 175px;
 }
 
 .name{
@@ -147,6 +171,10 @@ hr{
 	height: 6%;
 }
 
+#about_me{
+	text-align: left;
+}
+
 #project_info1{
 	text-align: left;
 }
@@ -229,30 +257,5 @@ a:focus, a:hover {
     text-decoration: none;
 }
 
-#lightbox {
-  display:none;
-  background: rgba(0,0,0,0.8);
-  position:fixed;
-  top:0px;
-  left:0px;
-  min-width:100vw;
-  min-height: 100vh;
-  z-index:1;
-}
 
-#lightbox-panel {
-  display:none;
-  position:fixed;
-  top:10px;
-  /*left:50%;
-  margin-left:-200px;
-  width:400px;
-*/  
-  background:#FFFFFF;
-  padding:10px 15px 25px 15px;
-  border:2px solid #CCCCCC;
-  z-index:999;
-  margin-left: 23%;
-  margin-right: 23%;
-}
 
