@@ -112,23 +112,23 @@ hr{
 }
 
 #about-me:hover{
-	color:#59d5bd;
+	color:#3DCDE5;
 	text-decoration: none;
 	
 }
 
 #projects-link:hover{
-	color:#59d5bd;
+	color:#3DCDE5;
 	text-decoration: none;
 }
 
 #resume-link:hover{
-	color:#59d5bd;
+	color:#3DCDE5;
 	text-decoration: none;
 }
 
 #contact-link:hover{
-	color:#59d5bd;
+	color:#3DCDE5;
 	text-decoration: none;
 }
 
@@ -221,7 +221,7 @@ hr{
 }
 
 #writemail:hover{
-	color:#59d5bd;
+	color:#3DCDE5;
 	text-decoration: none;
 }
 
@@ -230,12 +230,12 @@ hr{
 }
 
 #github:hover{
-	color:#59d5bd;
+	color:#3DCDE5;
 	text-decoration: none;
 }
 
 #linkedin:hover{
-	color:#59d5bd;
+	color:#3DCDE5;
 	text-decoration: none;
 }
 
@@ -244,7 +244,7 @@ a {
 }
 
 a:focus, a:hover {
-    color: #59d5bd;
+    color: #3DCDE5;
     text-decoration: none;
 }
 
