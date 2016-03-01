@@ -42,10 +42,10 @@ hr{
 }
 
 #self{
-/*	height: 75%;
-	width: 75%;*/
-	margin-left: 700px;
-	margin-top: -275px;
+	height: 75%;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;	
 }
 
 .about_me_desc{
@@ -53,6 +53,7 @@ hr{
 	color: #333333;
 	padding-top: 20px;
 	text-align: left;
+	font-size: 15px;
 
 }
 
